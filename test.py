@@ -1,1 +1,6 @@
 print('hello world')
+print('wuker')
+print('hello world')
+print('wuker')
+print('hello world')
+print('wuker')
